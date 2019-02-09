@@ -1,1 +1,1 @@
-### Dockerfile to create hive environment
+### Dockerfile for hive test
